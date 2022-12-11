@@ -18,7 +18,7 @@
     "cross-env": "^5.2.0",
     "deepmerge": "^2.1.1",
     "element-ui": "^2.4.6",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "nuxt": "^2.3.4",
     "source-map-support": "^0.5.8",
     "vuetify": "^2.0",
